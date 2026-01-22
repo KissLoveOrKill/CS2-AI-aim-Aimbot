@@ -23,7 +23,6 @@ dist/
 *.pt
 !训练结果/**/*.pt
 # except the specific weights we need to run
-# except the specific weights we need to run
 !aimbot_version2/yolov5-7.0/aimtools/weights/headonly.pt
 
 # IDE

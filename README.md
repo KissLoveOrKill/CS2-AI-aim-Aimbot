@@ -25,6 +25,7 @@ aimbotdata/
 │       ├── requirements.txt    # 项目依赖列表
 │       └── ...
 ├── 数据集/                     # 训练数据集
+│   ├── README.roboflow.txt     # [数据源] https://universe.roboflow.com/aimbot-dubsm/aimbot-2-vmxku
 │   ├── data.yaml               # 数据集配置文件
 │   ├── train/                  # 训练集图片与标签
 │   ├── valid/                  # 验证集图片与标签
