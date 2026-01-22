@@ -1,0 +1,13 @@
+train: data/train/images
+val: data/valid/images
+test: data/test/images
+
+nc: 2
+names: ['body', 'head']
+
+# roboflow:
+# workspace: aimbot-dubsm
+# project: aimbot-webmo
+# version: 2
+# license: CC BY 4.0
+# url: https://universe.roboflow.com/aimbot-dubsm/aimbot-webmo/dataset/2
